@@ -17,4 +17,4 @@ This project is made for learning *frontend web development* and practicing *res
 
 ---
 
-## 📂 Project Structur
+## 📂 Project Structure
